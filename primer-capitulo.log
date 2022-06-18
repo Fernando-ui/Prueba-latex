@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.1)  7 APR 2022 23:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.1)  17 JUN 2022 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -231,7 +231,7 @@ Package blindtext Warning: spanish not defined, using English instead.
 <images//imagen.jpg, id=11, 276.03125pt x 183.68625pt>
 File: images//imagen.jpg Graphic file (type jpg)
 <use images//imagen.jpg>
-Package pdftex.def Info: images//imagen.jpg  used on input line 48.
+Package pdftex.def Info: images//imagen.jpg  used on input line 49.
 (pdftex.def)             Requested size: 172.5pt x 114.7952pt.
  [2 <./images//imagen.jpg>] (primer-capitulo.aux
 LaTeX Info: Redefining \. on input line 9.
@@ -240,7 +240,7 @@ LaTeX Info: Redefining \% on input line 9.
 Here is how much of TeX's memory you used:
  3686 strings out of 478582
  59427 string characters out of 2844345
- 376692 words of memory out of 3000000
+ 377692 words of memory out of 3000000
  21853 multiletter control sequences out of 15000+600000
  475630 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -259,7 +259,7 @@ fst_9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:
 0.pfb><C:/Users/fst_9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmsy7.pfb><C:/Users/fst_9/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmti10.pfb>
-Output written on primer-capitulo.pdf (2 pages, 131699 bytes).
+Output written on primer-capitulo.pdf (2 pages, 132061 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
